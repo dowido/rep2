@@ -1,0 +1,84 @@
+.top {
+    width: 95%;
+    height: 50vh;
+    justify-content: center;
+
+    display: flex;
+
+    background-color: white;
+   margin-left: 25px;
+    border-radius: 10px;
+position: center;
+}
+.top .a{
+    width: 99.99%;
+    height: 45vh;
+    margin-top: 15px;
+    margin-right:20px;
+    border-radius: 10px;
+
+
+
+}
+
+body{
+    background-color: lightgrey;
+}
+.bottom{
+    min-height: 30vh;
+    display:flex;
+    
+}
+.bottomright{
+    width: 24.5%;
+    min-height: 30vh;
+    background-color:white ;
+    margin-top: 20px;
+    margin-left:15px ;
+        justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    border-radius:10px;
+}
+.bottomcenterright{
+      width: 24.5%;
+    min-height: 30vh;
+    background-color:white ;
+    margin-top: 20px;
+    margin-left:15px ;
+        justify-content: center;
+    align-items: center;
+     padding-left: 10px;
+    border-radius:10px;
+}
+.bottomcenterleft{
+      width: 24.5%;
+    min-height: 30vh;
+    background-color:white ;
+    margin-top: 20px;
+    margin-left:15px ;
+     padding-left: 10px;
+    border-radius:10px;
+
+    justify-content: center;
+    align-items: center;
+}
+.bottomleft{
+      width: 20%;
+    min-height: 30vh;
+    background-color:white ;
+    margin-top: 20px;
+    margin-left:15px ;
+    justify-content: center;
+    align-content: center;
+     padding-left: 10px;
+    border-radius:10px;
+}
+
+img{
+    width:80% ;
+    margin-left:20px;
+    margin-top: 20px;
+    border-radius: 10px;
+;
+}

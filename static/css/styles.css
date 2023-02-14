@@ -1,0 +1,38 @@
+.top{
+    height:30vh ;
+    background-color: #747474;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.top h1{
+    color:white;
+    font-size: 50px;
+}
+.middle{
+    min-height: 60vh;
+    display:flex;
+}
+.middleleft{
+    width: 30%;
+    background-color: #b0b0b0;
+}
+.middleleft ol {
+    list-style-type: none;
+    margin-top: 20px;
+
+}
+.middleright{
+    width: 70%;
+    background-color: white;
+    padding-left: 60px;
+}
+.bottom{
+    height:20vh;
+    background-color: #747474;
+    justify-content: center;
+    align-content: center;
+}
+
+
+

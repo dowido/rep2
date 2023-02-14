@@ -1,0 +1,146 @@
+.top{
+    height:15vh ;
+    display: flex;
+}
+.tl {
+    width: 33%;
+    padding-left: 100px;
+    color: white;
+
+}
+.tc{
+    width: 36%;
+    padding-right:0px;
+    padding-top: 25px;
+}
+.tc button{
+    background-color: transparent;
+    color:white;
+    margin: 2px;
+    border: unset;
+
+
+
+
+}
+.tr{
+    width: 30%;
+
+    margin: 20px;
+    padding-bottom: 20px;
+
+}
+.tr .join-us{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: white;
+    border: unset;
+}
+.tr button{
+      background-color: transparent;
+    color:white;
+    margin-bottom: 100px;
+    border: unset;
+}
+.middle{
+    display: flex;
+    min-height: 45vh;
+    margin-bottom: 20vh;
+    font-family: sans-serif;
+
+}
+.ml{
+    width: 30%;
+
+}
+.mr {
+    width: 30%;
+
+}
+.mc{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    padding-left:150px ;
+    color: white;
+}
+body{
+    background-color: #0f0f41;
+}
+.welcome{
+    margin-left: 100px;
+    color: aqua;
+}
+.mid-left{
+    background-color: aqua;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border: unset;
+    border-radius: 5px;
+}
+.mid-right{
+      background-color: transparent;
+    color: aqua;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: solid 2px;
+}
+.bottom{
+display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+
+
+
+}
+.bl{
+    background-color: white;
+padding-top: 20px;
+    padding-left: 30px;
+    width:25% ;
+    margin: 20px;
+        border-radius: 3px;
+}
+.bc{background-color: white;
+    width:25% ;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 50vh;
+    margin: 20px;
+        border-radius: 3px;
+    .bc hr{
+        width: 15%
+
+    }
+
+
+
+}
+img{
+    width: 30%;
+    border-radius: 5px;
+}
+.br{
+    width: 25%;
+    background-color: aqua;
+    margin: 20px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 50vh;
+    border-radius: 3px;
+}
+hr{
+    width: 15%;
+    alignment: left;
+    border: solid black 1px;
+    margin-right:85%;
+    border-radius: 2px;
+    margin-top: 20px;
+}

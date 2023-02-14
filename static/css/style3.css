@@ -1,0 +1,91 @@
+body{
+    background-image: url("../images/660691 (1).jpg");
+}
+
+
+
+.containerdiv{
+
+    height: 100vh;
+
+}
+.navigation-div{
+    display: flex;
+   height: 20vh;
+}
+.logo{
+    width: 50%;
+    height: 20vh;
+    padding-left: 40px;
+
+}
+.logoimg{
+    width: 100px;
+    height: 50px;
+
+}
+.buttons{
+    display:flex;
+    justify-content: right
+;
+    align-items:center;
+    width: 50%;
+}
+
+.buttons img{
+    height:40px;
+    margin-left: 50px;
+    border-radius: 150px;
+    margin-bottom: 50px;
+}
+.buttons button{
+    height:40px;
+   border: unset;
+    margin-bottom: 50px;
+    color: white;
+    margin-left: 20px;
+    animation-name: button;
+    animation:infinite;
+    animation-play-state: running;
+    animation-duration: 4s;
+}
+.wld{
+    width: 45%;
+    padding-left: 50px;
+}
+.wld h1{
+    font-family: sans-serif;
+    color: white;
+}
+.r{
+    width: 200px;
+    height: 50px;
+    border: unset;
+    background-color: darkorange;
+    border-radius: 80px;
+    color: white;
+
+}
+.k {
+    width: 200px;
+    height: 50px;
+    color: white;
+    background: transparent;
+    border-radius: 80px;
+
+}
+p{
+    color: white;
+
+}
+@keyframes button {
+0%{
+    background-color: aqua;
+
+}
+ 100%{
+     background-color: crimson;
+ }
+
+
+}
